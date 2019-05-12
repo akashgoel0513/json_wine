@@ -10,36 +10,36 @@
             "name": "Peter Yealand Rose",
             "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
             "Rating": "8.50",
-            "categorie":"Wine
+            "categorie":"Wine",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nk_HxekZXFmgBRgd7jDXWOiaSJfausPbB0yrdESqcfZX36Pg"
         },
         {
             "name": "Astrolabe",
             "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
             "Rating": "8.16",
-            "categorie":"Wine,
+            "categorie":"Wine",
             "img": "https://caros-2.ecpcdn.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/s/astrolabe-rose-new_1.jpg"
         },
         {
             "name": "The Ned",
             "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
             "Rating": "8.16",
-            "categorie":"Wine,
+            "categorie":"Wine",
             "img": "https://bigbarrel.co.nz/content/images/thumbs/0026426_the-ned-pinot-gris-750ml.jpeg"
         },
         {
             "name": "Jacobs Creek",
             "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
             "Rating": "8.16",
-            "categorie":"Wine,
+            "categorie":"Wine",
             "img": "https://www.dutyfree.ca/application/files/6314/8674/5458/003172406843.jpg"
         },
         {
             "name": "Theory of Evolution",
             "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
             "Rating": "8.16",
-            "categorie":"Wine,
+            "categorie":"Wine",
             "img": "https://www.fourthwavewine.com.au/client_images/2080765.png"
-        },
+        }
 
     ]
